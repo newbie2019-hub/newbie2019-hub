@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at
   - [newbie2019-hub.github.io](newbie2019-hub.github.io)
 
-- 💬 Ask me about **react, vue, javascript, css, html, nuxt**
+- 💬 Ask me about **react, vue, javascript, css, html, nuxt**dsd
 
 - 📫 How to reach me **sabayyvan2018@gmail.com**
 
