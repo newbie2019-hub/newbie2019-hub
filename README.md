@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yvan Sabay</h1>
 <h3 align="center">A passionate full stack web developer and UI-UX Designer.</h3>
 
-- 🔭 I’m currently working on **a freelance project**
-
 - 🌱 I’m currently learning
   - **NextJS, Kubernetes, Livewire (re-learning)**
 
 - 👨‍💻 All of my projects are available at
   - [newbie2019-hub.github.io](newbie2019-hub.github.io)
 
-- 💬 Ask me about **react, vue, javascript, css, html, nuxt**
+- 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting**
 
 - 📫 How to reach me **sabayyvan2018@gmail.com**
 
