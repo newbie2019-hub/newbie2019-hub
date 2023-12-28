@@ -5,7 +5,7 @@
   - **NextJS, Kubernetes, Livewire (re-learning)**
 
 - 👨‍💻 All of my projects are available at
-  - [newbie2019-hub.github.io](newbie2019-hub.github.io)
+  - [newbie2019-hub.github.io](https://newbie2019-hub.github.io)
 
 - 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting, figma, ui-ux**
 
