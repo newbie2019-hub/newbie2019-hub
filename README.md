@@ -7,14 +7,13 @@
 - 👨‍💻 All of my projects are available at
   - [newbie2019-hub.github.io](newbie2019-hub.github.io)
 
-- 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting**
+- 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting, figma, ui-ux**
 
 - 📫 How to reach me **sabayyvan2018@gmail.com**
 
 - 📄 Know about my experiences
-  - [I've been working as a freelance developer for almost 3 years. I have developed different projects using different tech stack depending on client needs.](I've been working as a freelance developer for almost 3 years. I have developed different projects using different tech stack depending on client needs.)
-
-- ⚡ Fun fact **I love working out and learning new things**
+  - I've been working as a freelance developer for almost 3 years. I have developed different projects using different tech stack depending on client needs.
+  - ⚡ Fun fact **I love working out and learning new things related to technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
