@@ -2,17 +2,16 @@
 <h3 align="center">A passionate full stack web developer and UI-UX Designer.</h3>
 
 - 🌱 I’m currently learning
-  - **NextJS, Kubernetes, Livewire (re-learning)**
+  - **NextJS, Kubernetes, Livewire (re-learning), React Native**
 
 - 👨‍💻 All of my projects are available at
   - [newbie2019-hub.github.io](https://newbie2019-hub.github.io)
 
-- 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting, figma, ui-ux**
+- 💬 Ask me about **react, vue, javascript, css, html, nuxt, js, docker, hosting, figma, ui-ux, typescript, laravel**
 
 - 📫 How to reach me **sabayyvan2018@gmail.com**
 
 - 📄 Know about my experiences
-  - I've been working as a freelance developer for almost 3 years. I have developed different projects using different tech stack depending on client needs.
   - ⚡ Fun fact **I love working out and learning new things related to technology**
 
 <h3 align="left">Connect with me:</h3>
