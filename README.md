@@ -12,6 +12,7 @@
 - 📫 How to reach me **sabayyvan2018@gmail.com**
 
 - 📄 Know about my experiences
+  - Been working as a full stack web developer for more than 4 years.
   - ⚡ Fun fact **I love working out and learning new things related to technology**
 
 <h3 align="left">Connect with me:</h3>
