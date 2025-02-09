@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yvan Sabay </h1>
 <h3 align="center">I'm a full-stack web developer with a strong eye for UI/UX design, passionate about crafting seamless, high-performing digital experiences. I love building intuitive, visually polished interfaces that merge thoughtful design with robust engineering. Whether it's front-end precision or back-end efficiency, I thrive on turning ideas into reality.</h3>
 
-###
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=newbie2019-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newbie2019-hub&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -84,5 +74,15 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/newbie2019-hub/newbie2019-hub/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=newbie2019-hub&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=newbie2019-hub&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
