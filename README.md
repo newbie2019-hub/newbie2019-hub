@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yvan Sabay </h1>
-<p>I'm a full-stack web developer with a strong eye for UI/UX design, passionate about crafting seamless, high-performing digital experiences. I love building intuitive, visually polished interfaces that merge thoughtful design with robust engineering. Whether it's front-end precision or back-end efficiency, I thrive on turning ideas into reality.</p>
+<p>I'm an experienced full-stack web developer with a strong eye for UI/UX design, passionate about crafting seamless, high-performing digital experiences. I love building intuitive, visually polished interfaces that merge thoughtful design with robust engineering. Whether it's front-end precision or back-end efficiency, I thrive on turning ideas into reality.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
